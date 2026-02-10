@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Final neutral</title>
+  <desc id="desc">Comunicaciones recuperadas sin apoyo inmediato.</desc>
+  <rect width="1200" height="675" fill="#3b3217"/>
+  <rect x="105" y="190" width="990" height="300" rx="18" fill="#7a6930"/>
+  <text x="145" y="335" font-size="58" font-family="Arial, sans-serif" fill="#ffffff">Final neutral</text>
+  <text x="145" y="400" font-size="34" font-family="Arial, sans-serif" fill="#fff5d9">Enlace recuperado con recursos limitados</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Final malo</title>
+  <desc id="desc">Perdida total de comunicaciones en la estacion.</desc>
+  <rect width="1200" height="675" fill="#3a1111"/>
+  <rect x="95" y="190" width="1010" height="300" rx="18" fill="#6d2525"/>
+  <text x="130" y="335" font-size="58" font-family="Arial, sans-serif" fill="#ffffff">Final malo</text>
+  <text x="130" y="400" font-size="34" font-family="Arial, sans-serif" fill="#ffe1e1">Silencio total en la ISS</text>
+</svg>

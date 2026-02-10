@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Fase final rusa B4</title>
+  <desc id="desc">Ultimos ajustes de mision.</desc>
+  <rect width="1200" height="675" fill="#2a1f3f"/>
+  <rect x="110" y="190" width="980" height="300" rx="14" fill="#583f7e"/>
+  <text x="145" y="335" font-size="56" font-family="Arial, sans-serif" fill="#ffffff">Ruta B4 - Fase final</text>
+  <text x="145" y="400" font-size="34" font-family="Arial, sans-serif" fill="#f4e9ff">Cierre de mision en modulo ruso</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Sala de comunicaciones rusa B3</title>
+  <desc id="desc">Monitores de telemetria parcial.</desc>
+  <rect width="1200" height="675" fill="#261d3a"/>
+  <rect x="85" y="160" width="1030" height="350" rx="16" fill="#4b376d"/>
+  <text x="120" y="325" font-size="54" font-family="Arial, sans-serif" fill="#ffffff">Ruta B3 - Sala de comunicaciones</text>
+  <text x="120" y="390" font-size="33" font-family="Arial, sans-serif" fill="#efe4ff">Sincronizar, enlazar o reiniciar</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Laboratorio europeo A3</title>
+  <desc id="desc">Astronautas reunidos en modulo cientifico.</desc>
+  <rect width="1200" height="675" fill="#10263d"/>
+  <circle cx="250" cy="170" r="72" fill="#84a9d6"/>
+  <circle cx="390" cy="170" r="72" fill="#84a9d6"/>
+  <circle cx="530" cy="170" r="72" fill="#84a9d6"/>
+  <rect x="90" y="260" width="1020" height="250" rx="14" fill="#2b4f72"/>
+  <text x="120" y="360" font-size="56" font-family="Arial, sans-serif" fill="#ffffff">Ruta A3 - Laboratorio europeo</text>
+  <text x="120" y="420" font-size="34" font-family="Arial, sans-serif" fill="#dcecff">Trabajo en equipo o atajo riesgoso</text>
+</svg>

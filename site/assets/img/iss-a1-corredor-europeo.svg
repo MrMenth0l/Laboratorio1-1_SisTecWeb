@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Corredor europeo A1</title>
+  <desc id="desc">Seccion europea con luces de emergencia.</desc>
+  <rect width="1200" height="675" fill="#10263f"/>
+  <rect x="90" y="170" width="1020" height="335" rx="20" fill="#2b537f"/>
+  <text x="120" y="330" font-size="58" font-family="Arial, sans-serif" fill="#ffffff">Ruta A1 - Corredor europeo</text>
+  <text x="120" y="395" font-size="34" font-family="Arial, sans-serif" fill="#d8e9ff">Luces de respaldo y primer contacto</text>
+</svg>

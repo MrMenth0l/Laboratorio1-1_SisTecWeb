@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Modulo tecnico ruso B2</title>
+  <desc id="desc">Cabina de energia de emergencia.</desc>
+  <rect width="1200" height="675" fill="#2d1f45"/>
+  <rect x="120" y="205" width="960" height="270" rx="14" fill="#5b4380"/>
+  <text x="155" y="330" font-size="56" font-family="Arial, sans-serif" fill="#ffffff">Ruta B2 - Modulo tecnico</text>
+  <text x="155" y="395" font-size="34" font-family="Arial, sans-serif" fill="#f1e7ff">Reparacion colaborativa o riesgo alto</text>
+</svg>

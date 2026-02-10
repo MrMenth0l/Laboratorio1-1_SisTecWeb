@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Nodo ruso B1</title>
+  <desc id="desc">Pasillo ruso con paneles manuales activos.</desc>
+  <rect width="1200" height="675" fill="#2a1f3f"/>
+  <rect x="95" y="175" width="1010" height="330" rx="18" fill="#4e3a6f"/>
+  <text x="125" y="330" font-size="58" font-family="Arial, sans-serif" fill="#ffffff">Ruta B1 - Nodo ruso</text>
+  <text x="125" y="395" font-size="34" font-family="Arial, sans-serif" fill="#efe2ff">Inicio de decisiones tecnicas</text>
+</svg>

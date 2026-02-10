@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Inicio de aventura ISS</title>
+  <desc id="desc">Astronauta perdido frente al mapa de la estacion.</desc>
+  <rect width="1200" height="675" fill="#0b1f3a"/>
+  <circle cx="980" cy="110" r="58" fill="#f4f4f4"/>
+  <rect x="80" y="250" width="1040" height="260" rx="18" fill="#1f3b5d"/>
+  <text x="100" y="355" font-size="54" font-family="Arial, sans-serif" fill="#ffffff">ISS - Punto de inicio</text>
+  <text x="100" y="420" font-size="36" font-family="Arial, sans-serif" fill="#d9e7ff">Astronauta perdido, comunicacion inestable</text>
+</svg>

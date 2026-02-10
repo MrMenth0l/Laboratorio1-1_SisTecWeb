@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal europea A2</title>
+  <desc id="desc">Consola de comunicaciones con opciones criticas.</desc>
+  <rect width="1200" height="675" fill="#0a2340"/>
+  <rect x="130" y="200" width="940" height="280" rx="16" fill="#24507a"/>
+  <text x="160" y="330" font-size="58" font-family="Arial, sans-serif" fill="#ffffff">Ruta A2 - Terminal europea</text>
+  <text x="160" y="395" font-size="34" font-family="Arial, sans-serif" fill="#d9ecff">Protocolos de recuperacion</text>
+</svg>

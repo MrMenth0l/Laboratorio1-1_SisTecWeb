@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Final bueno</title>
+  <desc id="desc">Comunicaciones restauradas y nave de reabastecimiento llegando.</desc>
+  <rect width="1200" height="675" fill="#12351f"/>
+  <rect x="95" y="180" width="1010" height="320" rx="20" fill="#2f6a41"/>
+  <text x="130" y="335" font-size="58" font-family="Arial, sans-serif" fill="#ffffff">Final bueno</text>
+  <text x="130" y="400" font-size="34" font-family="Arial, sans-serif" fill="#ddffe6">Comunicacion estable y nave de soporte</text>
+</svg>
