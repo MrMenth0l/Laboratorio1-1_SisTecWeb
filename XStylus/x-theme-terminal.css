@@ -1,0 +1,76 @@
+/* Stylus theme for x.com - Terminal Espacial */
+@-moz-document domain("x.com") {
+  :root {
+    --x-bg-main: #04141c;
+    --x-bg-panel: #0a1f2a;
+    --x-bg-subtle: #102937;
+    --x-text-main: #d7f4e5;
+    --x-text-muted: #8db7aa;
+    --x-accent: #82f5c8;
+    --x-border: rgba(130, 245, 200, 0.34);
+  }
+
+  body,
+  html {
+    background: radial-gradient(circle at 16% -2%, #123243 0%, transparent 42%), var(--x-bg-main) !important;
+    color: var(--x-text-main) !important;
+  }
+
+  [data-testid="primaryColumn"],
+  [data-testid="sidebarColumn"],
+  [role="main"],
+  [data-testid="cellInnerDiv"] {
+    background: transparent !important;
+  }
+
+  [data-testid="tweet"],
+  [data-testid="UserCell"],
+  [role="dialog"] [data-testid="sheetDialog"] {
+    background: linear-gradient(180deg, rgba(11, 34, 44, 0.92), rgba(9, 26, 35, 0.92)) !important;
+    border: 1px solid var(--x-border) !important;
+    border-radius: 10px !important;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25) !important;
+  }
+
+  [data-testid="SideNav_NewTweet_Button"],
+  [data-testid="tweetButtonInline"],
+  [data-testid="tweetButton"] {
+    background: linear-gradient(90deg, #1f5d54, #1b5349) !important;
+    border: 1px solid rgba(173, 255, 226, 0.45) !important;
+    color: #e8fff4 !important;
+  }
+
+  [data-testid="SideNav_NewTweet_Button"]:hover,
+  [data-testid="tweetButtonInline"]:hover,
+  [data-testid="tweetButton"]:hover {
+    filter: brightness(1.09) !important;
+  }
+
+  a,
+  span,
+  div {
+    text-shadow: none !important;
+  }
+
+  [data-testid="tweetText"],
+  [lang] {
+    color: var(--x-text-main) !important;
+  }
+
+  [role="link"] {
+    transition: transform 130ms ease, opacity 130ms ease !important;
+  }
+
+  [role="link"]:hover {
+    transform: translateX(1px) !important;
+    opacity: 0.96 !important;
+  }
+
+  [aria-label="Search query"],
+  input,
+  textarea {
+    background: var(--x-bg-subtle) !important;
+    border: 1px solid var(--x-border) !important;
+    color: var(--x-text-main) !important;
+  }
+}
